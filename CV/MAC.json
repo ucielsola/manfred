@@ -1,0 +1,258 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Uciel",
+      "surnames": "Sola",
+      "title": "Frontend Developer",
+      "description": "I always loved solving problems. But I didn't think about becoming a software developer until I was 28/29 years old. The 2020' coved outbrake ended up being the perfect opportunity for me to make a career change, so I started studying HTML5, CSS3 and JavaScript, the basic stuf for Web Development.\nNow, 2 years later, I'm very confident about my knowledge and am constantly pushing to learn more and get better. My main goal is to be the best Frontend Team Leader.",
+      "avatar": {
+        "alt": "uciel_sola.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/982f47b1-b654-4d55-bf30-7613eff6539f_uciel_sola.png"
+      },
+      "location": {
+        "notes": "Argentina"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/ucielsola"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/ucielsola"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ucielsola"
+      },
+      {
+        "type": "other",
+        "URL": "https://ucielsola.com"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I am a musician, too!",
+        "fact": "Here you can listen to my Tango Ensemble latest album (I made this website with SvelteKit)\nhttps://sud.ucielsola.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Mercanis",
+          "image": {
+            "alt": "mercanis.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/1f200a97-31ad-40ff-a30e-7fd2dce171a6_mercanis.svg"
+          },
+          "URL": "https://mercanis.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "Frontend Developer, integrating UI desingn."
+              }
+            ],
+            "competences": [
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Viset",
+          "image": {
+            "alt": "viset.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/2102eb8c-ec31-40c7-a667-076a5b3ac657_viset.png"
+          },
+          "URL": "https://www.visetlab.com/en"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Developing Viset App UI"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "SUD Tango - Music Player",
+          "description": "Music player built with SvelteKit, using WEBAudio API.",
+          "URL": "https://sud.ucielsola.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-05-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostCSS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/ucielsola"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
