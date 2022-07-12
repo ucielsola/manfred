@@ -100,11 +100,19 @@
             ],
             "competences": [
               {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
                 "name": "Angular2+",
                 "type": "technology"
               },
               {
                 "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
                 "type": "technology"
               },
               {
