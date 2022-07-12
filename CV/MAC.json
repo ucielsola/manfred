@@ -129,7 +129,11 @@
         "details": {
           "name": "SUD Tango - Music Player",
           "description": "Music player built with SvelteKit, using WEBAudio API.",
-          "URL": "https://sud.ucielsola.com"
+          "URL": "https://sud.ucielsola.com",
+          "image": {
+            "alt": "sud.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/ed68fbc9-d1cf-4dad-83cd-c2288e96d77f_sud.jpg"
+          }
         },
         "type": "sideProject",
         "roles": [
