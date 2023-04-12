@@ -9,7 +9,7 @@
       "name": "Uciel",
       "surnames": "Sola",
       "title": "Frontend Engineer",
-      "description": "I always loved solving problems. But I didn't think about becoming a software developer until I was 28/29 years old. The 2020's covid outbrake ended up being the perfect opportunity for me to make a career change, so I started studying HTML5, CSS3 and JavaScript, the basic stuff for Web Development.\nNow, 2 years later, I'm very confident about my knowledge and am constantly pushing forward to learn more and get better. My main goal is to be the best Frontend Team Leader.",
+      "description": "My name is Uciel Sola, and I'm a frontend developer based in Buenos Aires, Argentina. I've been working on various projects since I made the career change to become a developer at age 28/29, after the COVID-19 outbreak in 2020 provided me with the perfect opportunity to pursue my passion for problem-solving in a new field. I started with the basics of web development, studying HTML5, CSS3, and JavaScript, and two years later, I'm confident in my knowledge and constantly striving to learn and improve.\n\nI've worked at Viset, a startup based in Argentina, where I was responsible for maintaining and improving the user experience of a mobile app with a solid base of over 200 daily users. Additionally, I developed solutions for internal use, such as admin panels for user and content management, which helped to streamline our internal processes and improve team efficiency. I've also contributed to the success of Mercanis, a German startup, by developing software that meets our clients' needs, participating in technical interviews to identify talented candidates for our team, and working on designing and implementing new features.\n\nMy technical expertise includes working with Typescript, HTML, CSS, and various frameworks and libraries, such as Svelte, React, Vue, Angular, Astro, and Ionic. I'm also well-versed in design principles and have experience working with both Tailwind and pure CSS. As a highly collaborative and adaptable team player, I'm skilled in working in agile environments and methodologies. My main goal is to continue growing as a developer and become the best Frontend Team Leader I can be.",
       "avatar": {
         "alt": "uciel_sola.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/982f47b1-b654-4d55-bf30-7613eff6539f_uciel_sola.png"
@@ -166,11 +166,11 @@
     "languages": [
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
