@@ -182,19 +182,19 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostCSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -206,7 +206,13 @@
       },
       {
         "skill": {
-          "name": "Svelte",
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostCSS",
           "type": "technology"
         }
       },
@@ -218,7 +224,13 @@
       },
       {
         "skill": {
-          "name": "Firebase",
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Svelte",
           "type": "technology"
         }
       }
