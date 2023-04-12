@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Argentina",
         "region": "Santiago del Estero",
-        "municipality": "Argentina",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Argentina"
       }
     },
     "relevantLinks": [
@@ -59,16 +58,20 @@
         },
         "roles": [
           {
-            "name": "Frontend Developer",
+            "name": "Frontend Engineer",
             "startDate": "2022-05-01",
             "challenges": [
               {
-                "description": "Frontend Developer, integrating UI desingn."
+                "description": "I've been working at Mercanis since May 2022 and it has been a great experience so far. The team is fantastic and it's definitely a great place to work. During my time here, my main responsibilities have been related to developing software that meets our clients' needs.\n\nIn addition, I've had the opportunity to work on designing new features and developing their implementations. This has allowed me to apply my technical skills to solve problems and add value to the company. Being involved in the product development process has given me a greater understanding of our product and how we can continue to improve it.\n\nAnother way I've contributed to the company is by participating in technical interviews to help identify talented candidates for our team. It's been rewarding to see the impact of my contributions in ensuring that we have a strong team and maintain high standards of quality."
               }
             ],
             "competences": [
               {
                 "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
                 "type": "technology"
               },
               {
@@ -165,12 +168,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -285,7 +286,6 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
