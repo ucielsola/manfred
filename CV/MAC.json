@@ -1,21 +1,24 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Uciel",
       "surnames": "Sola",
-      "title": "Frontend Developer",
+      "title": "Frontend Engineer",
       "description": "I always loved solving problems. But I didn't think about becoming a software developer until I was 28/29 years old. The 2020's covid outbrake ended up being the perfect opportunity for me to make a career change, so I started studying HTML5, CSS3 and JavaScript, the basic stuff for Web Development.\nNow, 2 years later, I'm very confident about my knowledge and am constantly pushing forward to learn more and get better. My main goal is to be the best Frontend Team Leader.",
       "avatar": {
         "alt": "uciel_sola.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/982f47b1-b654-4d55-bf30-7613eff6539f_uciel_sola.png"
       },
       "location": {
-        "notes": "Argentina"
+        "country": "Argentina",
+        "region": "Santiago del Estero",
+        "municipality": "Argentina",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -162,25 +165,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "HTML",
@@ -195,7 +188,7 @@
       },
       {
         "skill": {
-          "name": "Firebase",
+          "name": "PostCSS",
           "type": "technology"
         }
       },
@@ -207,13 +200,25 @@
       },
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Svelte",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostCSS",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
           "type": "technology"
         }
       }
@@ -264,7 +269,11 @@
           "name": "jQuery",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
