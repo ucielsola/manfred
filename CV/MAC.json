@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,24 +11,30 @@
       "title": "Frontend Engineer",
       "description": "My name is Uciel Sola, and I'm a frontend developer based in Buenos Aires, Argentina. I've been working on various projects since I made the career change to become a developer at age 28/29, after the COVID-19 outbreak in 2020 provided me with the perfect opportunity to pursue my passion for problem-solving in a new field. I started with the basics of web development, studying HTML5, CSS3, and JavaScript, and two years later, I'm confident in my knowledge and constantly striving to learn and improve.\n\nI've worked at Viset, a startup based in Argentina, where I was responsible for maintaining and improving the user experience of a mobile app with a solid base of over 200 daily users. Additionally, I developed solutions for internal use, such as admin panels for user and content management, which helped to streamline our internal processes and improve team efficiency. I've also contributed to the success of Mercanis, a German startup, by developing software that meets our clients' needs, participating in technical interviews to identify talented candidates for our team, and working on designing and implementing new features.\n\nMy technical expertise includes working with Typescript, HTML, CSS, and various frameworks and libraries, such as Svelte, React, Vue, Angular, Astro, and Ionic. I'm also well-versed in design principles and have experience working with both Tailwind and pure CSS. As a highly collaborative and adaptable team player, I'm skilled in working in agile environments and methodologies. My main goal is to continue growing as a developer and become the best Frontend Team Leader I can be.",
       "avatar": {
-        "alt": "uciel_sola.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/982f47b1-b654-4d55-bf30-7613eff6539f_uciel_sola.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/982f47b1-b654-4d55-bf30-7613eff6539f_uciel_sola.png",
+        "alt": "uciel_sola.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJe_RIAuftNpQRKgxwKOnE2zs)",
         "country": "Argentina",
         "region": "Santiago del Estero",
-        "municipality": "Argentina",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Argentina"
       }
     },
-    "relevantLinks": [
+    "interestingFacts": [
       {
-        "type": "github",
-        "URL": "https://github.com/ucielsola"
-      },
+        "topic": "I am a musician, too!",
+        "fact": "Here you can listen to my Tango Ensemble latest album (I made this website with SvelteKit)\nhttps://sud.ucielsola.com"
+      }
+    ],
+    "relevantLinks": [
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/ucielsola"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ucielsola"
       },
       {
         "type": "twitter",
@@ -38,12 +44,6 @@
         "type": "other",
         "URL": "https://ucielsola.com"
       }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "I am a musician, too!",
-        "fact": "Here you can listen to my Tango Ensemble latest album (I made this website with SvelteKit)\nhttps://sud.ucielsola.com"
-      }
     ]
   },
   "experience": {
@@ -52,8 +52,8 @@
         "organization": {
           "name": "Mercanis",
           "image": {
-            "alt": "mercanis.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/1f200a97-31ad-40ff-a30e-7fd2dce171a6_mercanis.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/1f200a97-31ad-40ff-a30e-7fd2dce171a6_mercanis.svg",
+            "alt": "mercanis.svg"
           },
           "URL": "https://mercanis.com"
         },
@@ -91,8 +91,8 @@
         "organization": {
           "name": "Viset",
           "image": {
-            "alt": "viset.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/2102eb8c-ec31-40c7-a667-076a5b3ac657_viset.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/2102eb8c-ec31-40c7-a667-076a5b3ac657_viset.png",
+            "alt": "viset.png"
           },
           "URL": "https://www.visetlab.com/en"
         },
@@ -115,11 +115,11 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Github",
                 "type": "technology"
               },
               {
-                "name": "Github",
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -138,8 +138,8 @@
           "description": "Music player built with SvelteKit, using WEBAudio API.",
           "URL": "https://sud.ucielsola.com",
           "image": {
-            "alt": "sud.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/ed68fbc9-d1cf-4dad-83cd-c2288e96d77f_sud.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/ed68fbc9-d1cf-4dad-83cd-c2288e96d77f_sud.jpg",
+            "alt": "sud.jpg"
           }
         },
         "type": "sideProject",
@@ -169,33 +169,17 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "CSS",
@@ -204,19 +188,7 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostCSS",
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -228,14 +200,34 @@
       },
       {
         "skill": {
-          "name": "ES6",
+          "name": "Svelte",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Svelte",
+          "name": "TypeScript",
           "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Emotional intelligence",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good presentation skills",
+          "type": "practice"
         }
       }
     ]
@@ -244,9 +236,20 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://linkedin.com/in/ucielsola"
+          "URL": "https://linkedin.com/in/ucielsola",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/ucielsola",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/ucielsola",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "solauciel@gmail.com"
       ]
     },
     "preferences": {
@@ -291,5 +294,36 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Svelte",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I like challenges, and I don't care if they are a little about my actual possibilities if I now that I have a good team to fallback into when I need it. \n",
+    "goodPractices": "As a frontend engineer, I believe that maintaining clean and well-organized code is crucial for the success of any project. Therefore, I make it a priority to write code that is easy to read and understand, both for myself and for my team members.\n\nAnother important practice that I follow is staying up-to-date with the latest technologies and industry trends. This helps me to identify opportunities for improvement and to incorporate new tools and techniques into my workflow.\n\nIn addition, I believe in the value of collaboration and effective communication. I strive to work closely with my team members and stakeholders, actively seeking feedback and offering suggestions for improvement. This helps to ensure that everyone is on the same page and that the project is moving forward in a cohesive and efficient manner.\n\nAnother key practice that I follow is testing and debugging my code thoroughly. This helps to catch any errors or issues early on in the development process, allowing for faster and more efficient resolution.\n\nFinally, I believe in maintaining a positive and proactive attitude, even in the face of challenges or setbacks. By staying motivated and committed to the project, I am able to overcome obstacles and deliver high-quality work that meets the needs of my team and stakeholders.",
+    "projects": [
+      {
+        "name": "SUD Tango - Music Player"
+      }
+    ]
   }
 }
