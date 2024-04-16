@@ -212,6 +212,23 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Systems Analyst",
+        "startDate": "2024-03-01",
+        "institution": {
+          "name": "ORT Argentina",
+          "description": "Systems analysis encompasses a structured process that includes requirements gathering, thorough analysis, system design, testing, implementation, and ongoing maintenance. It aims to optimize how a business or organization functions through technology.",
+          "URL": "https://www.ort.edu.ar/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/a5e3d1f8-ec93-4335-bc9c-7c0ec74e43d7_ort_logo.jpg",
+            "alt": "ort_logo.jpg"
+          }
+        }
+      }
+    ],
     "softSkills": [
       {
         "skill": {
