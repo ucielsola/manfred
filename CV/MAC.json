@@ -64,10 +64,14 @@
             "startDate": "2022-05-01",
             "challenges": [
               {
-                "description": "I've been working at Mercanis since May 2022 and it has been a great experience so far. The team is fantastic and it's definitely a great place to work. During my time here, my main responsibilities have been related to developing software that meets our clients' needs.\n\nIn addition, I've had the opportunity to work on designing new features and developing their implementations. This has allowed me to apply my technical skills to solve problems and add value to the company. Being involved in the product development process has given me a greater understanding of our product and how we can continue to improve it.\n\nAnother way I've contributed to the company is by participating in technical interviews to help identify talented candidates for our team. It's been rewarding to see the impact of my contributions in ensuring that we have a strong team and maintain high standards of quality."
+                "description": "Since joining Mercanis in May 2022, I've enjoyed the collaborative atmosphere and challenging work. I collaborate closely with the product team to develop software solutions that exceed expectations. I've played a key role in designing and implementing new features, applying my technical expertise to solve problems and enhance our product. This involvement has deepened my product knowledge and fostered innovative thinking.  I'm also proud to contribute to Mercanis' growth by participating in technical interviews, ensuring we maintain a team of highly skilled professionals."
               }
             ],
             "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
               {
                 "name": "GitLab",
                 "type": "technology"
@@ -77,7 +81,15 @@
                 "type": "technology"
               },
               {
+                "name": "RollupJS",
+                "type": "technology"
+              },
+              {
                 "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
                 "type": "technology"
               },
               {
