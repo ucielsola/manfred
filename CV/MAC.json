@@ -115,7 +115,7 @@
             "startDate": "2021-10-01",
             "challenges": [
               {
-                "description": "I've been working at Viset since October 2021, and as the sole frontend developer for our mobile app, I have taken on a significant responsibility in maintaining and improving the user experience. Despite being the only frontend developer, I have been able to ensure that our app runs smoothly and provides a great experience for our users.\n\nOur app has a solid base of over 200 daily users, and it's been exciting to see its growth and success. In addition to my frontend work, I've also developed solutions for internal use, such as admin panels for user and content management. These solutions have helped to streamline our internal processes and improve the efficiency of our team.\n\nOverall, my experience at Viset has been rewarding, and I take pride in the work that I've done to help our app and team succeed."
+                "description": "Since joining Viset in October 2021, I've spearheaded frontend development for our mobile app as its sole frontend developer. I'm proud to maintain and continuously improve the user experience for our established base of 200+ daily users.  Beyond the app itself, I've proactively developed internal solutions like admin panels that streamline user and content management, boosting our team's efficiency. Overall, my experience at Viset has been highly rewarding as I witness the tangible impact of my work on both our app and our team's success."
               }
             ],
             "competences": [
@@ -124,7 +124,15 @@
                 "type": "technology"
               },
               {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
                 "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Capacitor",
                 "type": "technology"
               },
               {
@@ -137,6 +145,18 @@
               },
               {
                 "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "NgRx",
+                "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
                 "type": "technology"
               }
             ]
