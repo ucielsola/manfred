@@ -214,6 +214,21 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "EF SET - English Certification",
+        "startDate": "2021-06-01",
+        "institution": {
+          "name": "EF SET",
+          "description": "The EF SET is the world’s first completely free suite of online certifying language tests for learners of all levels, from novice to advanced. As part of EF Education First, we draw upon a 50-year legacy of academic excellence, having helped more than 20 million people across the world to successfully learn a language.",
+          "URL": "https://www.efset.org/cert/XHcbsL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/0cacf7c0-3f40-40cf-b283-3180278dc80f_efset.png",
+            "alt": "efset.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Systems Analyst",
